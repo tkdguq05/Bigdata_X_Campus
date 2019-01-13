@@ -1,1 +1,3 @@
-# This Forder is for lecture notes
+# This forder is for lecture notes
+* Bigdata X Campus program in Korea University
+* About Python, Db(SQL,noSQL), Web(Flask), Pandas, crawling(bs4, selenium), geopandas, natural language processing and NNs.
